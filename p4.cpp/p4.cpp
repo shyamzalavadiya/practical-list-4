@@ -33,8 +33,8 @@ class time
 int main()
 {
 	time t1,t2,t3;
-	cout<<"I am shyam panchasara "<<endl;
-	cout<<"En_no    220130318006 "<<endl;
+	cout<<"shyam zalavadiya "<<endl;
+	cout<<"En_no    220130318015"<<endl;
 	cout<<"---------------------"<<endl;
 	t1.getTime();
 	t1.printTime();
